@@ -6,7 +6,7 @@ _jquery, js, [slick-carousel 1.8.1](https://www.npmjs.com/package/slick-carousel
 
 ## This code adds counter slides for slick-slider
 
-![slider counter](https://github.com/Tomatinoom/slick-slider_counter/blob/master/counter.jpg) ![slider counter with slash](https://github.com/Tomatinoom/slick-slider_counter/blob/master/counter-slash.jpg)
+![slider counter](https://github.com/Tomatinoom/slick-slider_counter/blob/master/images%20for%20README/counter.jpg) ![slider counter with slash](https://github.com/Tomatinoom/slick-slider_counter/blob/master/images%20for%20README/counter-slash.jpg)
 
 To add a slide counter, use the function **_sliderCounter (slickSlider, classNameCounter, setingsSlick = {})_**.
 
