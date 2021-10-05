@@ -4,9 +4,9 @@ _Its my training project to expand the functionality of the [Slick Slider](https
 
 _jquery, js, [slick-carousel 1.8.1](https://www.npmjs.com/package/slick-carousel)_
 
-## This code adds counter slides for slick-slider 
+## This code adds counter slides for slick-slider
 
-![slider counter](https://github.com/Tomatinoom/slick-slider_counter/raw/) ![slider counter with slash]()
+![slider counter](https://github.com/Tomatinoom/slick-slider_counter/blob/master/counter.jpg) ![slider counter with slash](https://github.com/Tomatinoom/slick-slider_counter/blob/master/counter-slash.jpg)
 
 To add a slide counter, use the function **_sliderCounter (slickSlider, classNameCounter, setingsSlick = {})_**.
 
